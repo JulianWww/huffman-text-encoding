@@ -1,0 +1,19 @@
+{
+  "name": "huffman-text-encoding",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "npx ts-node src/main.ts"
+  },
+  "repository": "git@github.com:JulianWww/huffman-text-encoding.git",
+  "author": "JulianWww <Julian.wandhoven@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "print-tree": "^0.1.5",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.4",
+    "typescript": "^5.2.2"
+  }
+}
